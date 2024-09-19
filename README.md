@@ -6,9 +6,9 @@ visit : https://foodies-sigma-two.vercel.app/
 
 
 
-Installation nextJs : npx create-next-app@latest [folderName]
-Start projet : npm run dev
-SQLite database :  npm install better-sqlite3
-Create SQL database to use on the application : node initdb.js
+Installation nextJs : npx create-next-app@latest [folderName]  
+Start projet : npm run dev  
+SQLite database :  npm install better-sqlite3  
+Create SQL database to use on the application : node initdb.js  
 To prevent cross site scripting attack : npm install slugify xss
 
